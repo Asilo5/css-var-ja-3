@@ -10,4 +10,13 @@ body {
 
 main {
     text-align: center;
+    color: white;
+    font-family: 'helvetica neue', sans-serif;
+    font-weight: 100;
+    font-size: 2em;
+    margin: 10px;
+}
+
+h1 {
+    padding: 20px;
 }
