@@ -1,5 +1,5 @@
 :root {
-    --base: #ffc600;
+    --base: #FE938C;
     --spacing: 10px;
     --blur: 10px;
 }
@@ -29,4 +29,10 @@ h1 {
 
 .controls {
     margin-bottom: 50px;
+}
+
+img {
+    height: 17em;
+    padding: var(--spacing);
+    background: var(--base);
 }
